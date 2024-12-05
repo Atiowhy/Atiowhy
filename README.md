@@ -2,9 +2,7 @@
 <h3 align="center">A passionate frontend developer from Indonesia and you can call me Atio</h3>
 
 - 🌱 I’m currently learning **React.js, Next.js, PHP, Laravel, Bootstrap, TailwindCSS**
-
-- 💬 Ask me about **react, vite, next, php, laravel**
-- 
+- 💬 Ask me about **react, vite, next, php, laravel** 
 - 📫 How to reach me **atiowahyudi02@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
